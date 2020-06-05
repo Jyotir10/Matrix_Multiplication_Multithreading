@@ -24,6 +24,7 @@ Functions defined here are :
 	}
 	*/
 	b) print_Matrix - this function is used to print the matrix so that we can check whether our answer is right for the corresponding input. 	Inputs for this function are the matrix and its dimensions. You have to correctly provide the dimensions of the matrix to this function 	otherwise you will get an error.
+	// Code Snippet
 	/* 
 	void print_Matrix(int** matrix,int R,int C,string identifier){
     		std::cout<<"Matrix "<<identifier<<" is:"<<std::endl;
