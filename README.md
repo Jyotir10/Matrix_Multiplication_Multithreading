@@ -1,4 +1,4 @@
-# Matrix_Multiplicstion_Multithreading
+# Matrix_Multiplication_Multithreading
 Matrix Multiplication Library Implementation
 
 To run the program just type make and then ./threading. Steps : 1) open the terminal in a directory where all the 4 files (Make, threading.cpp, mat_Mul.cpp and mat_Mul.h are present). Then type in make and press enter. Then type ./threading.
